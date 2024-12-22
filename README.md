@@ -10,7 +10,7 @@ How did you approach the problem? Consider why data structures are important to 
 
 How did you overcome any roadblocks you encountered while going through the activities or project?
   
-  There were a few roadblocks along the way. In project two, for example, I ran into issues with certain edge cases that were not sorting correctly. To fix this, I spent time testing my program with different inputs and added print statements to debug the logic step by step. When I could not fiure it out on my own, I went back to the course materials and browsed google for any resource that could assist me. Taking the time to troubleshoot and get feedback helped me get past those challenges.
+  There were a few roadblocks along the way. In project two, for example, I ran into issues with certain edge cases that were not sorting correctly. To fix this, I spent time testing my program with different inputs and added print statements to debug the logic step by step. When I could not fiure it out on my own, I went back to the course materials and browsed for any resource that could assist me. Taking the time to troubleshoot and get feedback helped me get past those challenges.
 
 How has your work on this project expanded your approach to designing software and developing programs?
   
